@@ -2,7 +2,7 @@
 - 👀 I’m interested in statistical physics
 - 🌱 I’m currently learning in SZTE physics doctorial school
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me: petotamas84@gmail.com
 
 <!---
 petotamas84/petotamas84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
